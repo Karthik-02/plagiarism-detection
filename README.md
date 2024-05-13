@@ -58,6 +58,57 @@ def get_similarity_list(texts, filenames=None):
     return similarity_list
 ```
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Karthik-02/plagiarism-detection.git
+```
+
+Go to the project directory
+
+```bash
+  cd plagiarism-detection
+```
+
+Install dependencies
+
+```bash
+  pip install -r requirements.txt
+```
+
+Start the server
+
+```bash
+  streamlit run app.py
+```
+## Screenshots
+![image](https://github.com/Karthik-02/plagiarism-detection/assets/81423983/68ab81eb-da46-4180-b25e-5cd88a609da9)
+
+![image](https://github.com/Karthik-02/plagiarism-detection/assets/81423983/e0c97e0b-1122-4d28-ba46-95b16017d901)
+
+![image](https://github.com/Karthik-02/plagiarism-detection/assets/81423983/09ebf7bc-1736-4927-a2e1-c27616831f35)
+
+![image](https://github.com/Karthik-02/plagiarism-detection/assets/81423983/6b02553c-4c4c-4359-a551-b0f30067a0ba)
+
+![image](https://github.com/Karthik-02/plagiarism-detection/assets/81423983/77223ada-a79b-419b-b1af-08aa58e0fc84)
+
+![image](https://github.com/Karthik-02/plagiarism-detection/assets/81423983/0744bc50-6840-4893-a7c3-99e7834ab747)
+
+## Authors
+- [@KarthikS](https://www.github.com/Karthik-02)
+  
+
+
+
+
+
+
+
+
+
+
 
 
 
